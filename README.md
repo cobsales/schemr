@@ -1,1 +1,1 @@
-Add HeatMap guide in real-world-projects + Code in Solutions Directory (#6796)
+ultralytics 8.0.237 cv2.CAP_PROP fix and in_counts and out_counts displays (#7380)
